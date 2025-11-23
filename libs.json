@@ -131,5 +131,16 @@
         "libc": "gnueabihf",
         "so_name": "libcurl-impersonate.so",
         "so_arch": "arm"
-    }
+    }，
+     {
+        "system": "Linux",
+        "machine": "loongarch64",
+        "pointer_size": 64,
+        "libdir": "",
+        "sysname": "linux",
+        "link_type": "static",
+        "libc": "gnu",
+        "so_name": "libcurl-impersonate.so",
+        "so_arch": "loongarch64"
+    }   
 ]
